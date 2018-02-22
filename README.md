@@ -1,4 +1,4 @@
-# awesome-frontend
+# Awesome Frontend
 Awesome Frontend Libraries
 
 ## VueJS (official) (awesome)
@@ -21,9 +21,9 @@ Awesome Frontend Libraries
 - http://lobos.github.io
 - https://developer.microsoft.com/en-us/fabric
 - Custom Components
--- https://www.styled-components.com
--- https://glamorous.rocks/
--- https://emotion.sh → (Not only react)
+ - https://www.styled-components.com
+ - https://glamorous.rocks/
+ - https://emotion.sh → (Not only react)
 
 ## Angular (official) (awesome)
 - https://material.angular.io
