@@ -1,7 +1,7 @@
-# Awesome Frontend
+# Awesome Frontend [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Awesome Frontend Libraries
 
-## VueJS (official) (awesome)
+## VueJS ([oficial https://vuejs.org/]) (awesome)
 - https://semantic-ui-vue.github.io/
 - https://vuematerial.io
 - https://vuetifyjs.com
@@ -21,9 +21,9 @@ Awesome Frontend Libraries
 - http://lobos.github.io
 - https://developer.microsoft.com/en-us/fabric
 - Custom Components
- - https://www.styled-components.com
- - https://glamorous.rocks/
- - https://emotion.sh → (Not only react)
+    - https://www.styled-components.com
+    - https://glamorous.rocks/
+    - https://emotion.sh → (Not only react)
 
 ## Angular (official) (awesome)
 - https://material.angular.io
