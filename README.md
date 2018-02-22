@@ -1,7 +1,7 @@
 # Awesome Frontend [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Awesome Frontend Libraries
 
-## VueJS ([oficial](https://vuejs.org/)) (awesome)
+## VueJS ([oficial](https://vuejs.org/)) ([awesome](https://github.com/vuejs/awesome-vue))
 - https://semantic-ui-vue.github.io/
 - https://vuematerial.io
 - https://vuetifyjs.com
@@ -11,7 +11,7 @@ Awesome Frontend Libraries
 - https://n3-components.github.io
 - http://vuestic.epicmax.co/#/dashboard
 
-## React (official) (awesome)
+## React ([official](https://reactjs.org/)) ([awesome](https://github.com/enaqx/awesome-react))
 - http://blueprintjs.com/ → Only desktop. High quality
 - https://ant.design/ → Nice! (chinese ~)
 - https://react.semantic-ui.com
@@ -25,7 +25,7 @@ Awesome Frontend Libraries
     - https://glamorous.rocks/
     - https://emotion.sh → (Not only react)
 
-## Angular (official) (awesome)
+## Angular ([official](https://angular.io/)) (awesome)
 - https://material.angular.io
 - http://code.promactinfo.com/md2
 - https://edcarroll.github.io/ng2-semantic-ui
