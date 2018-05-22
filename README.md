@@ -3,6 +3,7 @@ Awesome Frontend Libraries
 
 ## VueJS ([oficial](https://vuejs.org/)) ([awesome](https://github.com/vuejs/awesome-vue))
 - https://semantic-ui-vue.github.io/
+- https://lusaxweb.github.io/vuesax/
 - https://vuematerial.io
 - https://vuetifyjs.com
 - https://buefy.github.io
